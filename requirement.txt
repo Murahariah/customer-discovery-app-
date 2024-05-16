@@ -1,0 +1,4 @@
+pymongo
+tkinter
+csv
+sqlite3
